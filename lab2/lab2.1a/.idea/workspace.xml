@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa02cf68-b90e-4333-96cf-1ad1ab438ef1" name="Default Changelist" comment="" />
+    <list default="true" id="fa02cf68-b90e-4333-96cf-1ad1ab438ef1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../lab1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/for.m/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab1/for.m/for.m.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2.3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3/1./.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3/1./src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3/1./src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab3/2./src/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2.4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2.4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2.3/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2.3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2.3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2.3/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2.3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2.3/lab2.3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2.3/lab2.3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2.3/out/production/lab2.3/com/company/Data$Analyzer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2.3/out/production/lab2.3/com/company/Data$Analyzer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2.5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2.5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2.5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2.5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2.6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2.6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2.6/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2.6/src/com/company/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,32 +62,15 @@
         </counts>
       </usages-collector>
     </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <session id="-715742510">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,6 +78,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -93,21 +101,23 @@
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536574777762" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,16 +155,17 @@
       <updated>1536564094430</updated>
       <workItem from="1536564099020" duration="155000" />
       <workItem from="1536565640012" duration="3345000" />
+      <workItem from="1538462361311" duration="243000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3500000" />
+    <option name="totallyTimeSpent" value="3743000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -190,21 +201,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
